@@ -2,6 +2,16 @@
 
 16-step generative art algorithm with full parameter control.
 
+## Example
+
+Here's a sample composition generated with this tool (seed **223741039**):
+
+<p align="center">
+  <img src="fidenza-223741039.svg" alt="Fidenza-style flow field artwork, seed 223741039" width="400">
+</p>
+
+> If the image doesn't render above, [view the SVG directly](fidenza-223741039.svg).
+
 ## Quick Start
 
 ```bash
